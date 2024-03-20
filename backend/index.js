@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import cors from 'cors';
 import express from "express";
 import bodyParser from 'body-parser';
-import config from"./config.js";
+
 import userRouter from "./routes/userRoute.js"
 import productRouter from "./routes/productRoute.js"
 import orderRoutes from './routes/orderRoute.js';
