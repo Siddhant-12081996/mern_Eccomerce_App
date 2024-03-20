@@ -1,0 +1,9 @@
+.avatar {
+  background-image: url("https://static.thenounproject.com/png/5034901-200.png");
+  background-repeat: no-repeat;
+
+  background-size: auto;
+  height: 190px;
+
+  width: 190px;
+}

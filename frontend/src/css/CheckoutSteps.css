@@ -1,0 +1,14 @@
+.completed-step {   
+    color: green;
+    font-weight: bolder;
+}
+
+.completed-step:hover{
+    color: green;
+    font-weight: bolder; 
+}
+
+.color{
+    font-weight: bolder; 
+}
+

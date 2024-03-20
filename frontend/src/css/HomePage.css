@@ -1,0 +1,12 @@
+.spinner{
+    width:4rem;
+    height:4rem;
+    margin-top:20rem;
+}
+
+@media only screen and (max-width: 768px){
+    .spinner{
+margin-left: 9rem;
+    }
+   
+}
